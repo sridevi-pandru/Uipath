@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Add Account",
+  "Type": "App",
+  "Id": "kUFDPlYs6Um_Nfwqy7qO_Q",
+  "Reference": "aleK6yl5dUO3Y5aFmeUi1A/kUFDPlYs6Um_Nfwqy7qO_Q",
+  "Created": "2024-11-15T09:53:01.7377808Z",
+  "Updated": "2024-11-15T09:53:01.7377808Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Name": "UiApplication",
+  "Type": "App",
+  "Id": "LPOsiemTgka6pmdaw7xRog",
+  "Reference": "aleK6yl5dUO3Y5aFmeUi1A/LPOsiemTgka6pmdaw7xRog",
+  "Created": "2024-11-15T08:57:44.8275944Z",
+  "Updated": "2024-11-15T08:57:44.8275944Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

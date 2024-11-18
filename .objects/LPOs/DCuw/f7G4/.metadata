@@ -1,0 +1,15 @@
+﻿{
+  "Name": "NewScreen",
+  "Type": "Screen",
+  "Id": "f7G4hvIrZU27m6PpffUYsw",
+  "Reference": "aleK6yl5dUO3Y5aFmeUi1A/f7G4hvIrZU27m6PpffUYsw",
+  "ParentRef": "aleK6yl5dUO3Y5aFmeUi1A/DCuwLIJOwk-LbGTzc6W2YQ",
+  "Created": "2024-11-15T08:58:54.6240465Z",
+  "Updated": "2024-11-15T08:59:01.8230249Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
